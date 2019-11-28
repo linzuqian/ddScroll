@@ -3,6 +3,7 @@ App({
     token:''
   },
   onLaunch(options) {
+      console.info('测试测试');
     dd.getStorageSync({
       key:"token",
       success:(res)=>{
