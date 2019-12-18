@@ -1,3 +1,4 @@
 {
-  "defaultTitle": "投放广告列表"
+  "defaultTitle": "滚动未出现滚动条Demo",
+  "allowsBounceVertical": "NO"
 }
